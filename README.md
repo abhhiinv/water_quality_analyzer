@@ -32,7 +32,7 @@ An IoT-based real-time water quality monitoring system that measures pH, TDS, Tu
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit/circuit_diagram.png)
+![Circuit Diagram](circuit.svg)
 
 ## Installation
 
